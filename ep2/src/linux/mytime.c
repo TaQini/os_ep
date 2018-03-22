@@ -4,7 +4,7 @@
 
 #define ms(X) X.tv_sec*1000000+X.tv_usec 
 
-#define debug 0
+#define debug 1
 int main(int argc, char **argv, char **envp){
 	int fd[2];
 	long buf[1];
@@ -24,7 +24,8 @@ int main(int argc, char **argv, char **envp){
 	else{
 		if (debug) printf("[+] pid:%5d waiting for child proc...\n", getpid());
 		read(fd[0], buf, sizeof(long));
-		wait(0);
+		pid_t who = wait(0);
+		if (debug) printf("[-] pid:%5d done.\n", who);
 		gettimeofday(&end, NULL); // time of child proc done
 		if (debug) printf("[-] pid:%5d done.\n", getpid());
 	}
