@@ -10,7 +10,7 @@
 #define SHMKEY 100
 #define fillCount 3  //offset of 同步信号：生产的项目
 #define emptyCount 4 //offset of 同步信号：剩余空间
-#define mutex 5      //offset of 互斥信号：二值信号灯
+#define mutex 5      //offset of 互斥信号
 
 int shmid;	// id of 共享主存区
 
@@ -83,6 +83,9 @@ void up(int off){
 void putItemIntoBuffer(char c){
 	int i;
 	char *addr = shmat(shmid, 0, 0);
+	// 避免两个生产者之间的竞争
+	while(addr[5] != '\0');
+	addr[5] = '\1'; // mutex = 1
 	// 将一个字符放入缓冲区
 	for(i=0; i<BUFFER_SIZE; i++){
 		if(addr[i] == '-'){
@@ -94,12 +97,16 @@ void putItemIntoBuffer(char c){
 			break;
 		}
 	}
+	addr[5] = '\0'; // mutex = 0
 	shmdt(addr);
 }
 
 char removeItemFromBuffer(){
 	char *addr = shmat(shmid, 0, 0);
 	int i; char c;
+	// 避免两个消费者之间的竞争
+	while(addr[5] != '\0');
+	addr[5] = '\1'; // mutex = 1
 	// 从缓冲区中取走一个字符
 	for(i=BUFFER_SIZE-1; i>=0; i--){
 		if(addr[i] != '-'){
@@ -112,6 +119,7 @@ char removeItemFromBuffer(){
 			break;
 		}
 	}
+	addr[5] = '\0'; // mutex = 0
 	shmdt(addr);
 	return c;
 }
@@ -122,9 +130,7 @@ void producer(){
 		usleep(randInt(SLEEP_TIME));
 		item = produceItem();
 		down(emptyCount);
-			down(mutex);
-				putItemIntoBuffer(item);
-			up(mutex);
+			putItemIntoBuffer(item);
 		up(fillCount);
 	}
 }
@@ -134,9 +140,7 @@ void consumer(){
 	for(i=0; i<4; i++){
 		usleep(randInt(SLEEP_TIME));
 		down(fillCount);
-			down(mutex);
-				item = removeItemFromBuffer();
-			up(mutex);
+			item = removeItemFromBuffer();
 		up(emptyCount);
 		consumeItem(item);
 	}
@@ -153,7 +157,7 @@ int main(){
 	}
 	addr[3] = 0; // fillCount  = 0
 	addr[4] = 3; // emptyCount = 3
-	addr[5] = 1; // mutex = 1
+	addr[5] = 0; // mutex = 0
 	shmdt(addr);
 	// 打印标题 
 	// printf("pid\tdate\t\ttime\t\toperation\tshm status\r\n");
