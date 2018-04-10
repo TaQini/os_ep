@@ -7,14 +7,12 @@
 PROCESS_INFORMATION StartClone(int nCloneID);
 
 struct SHM {
-	int read;
-	int write;
 	char buf[3][2];
 };
 
 int randInt(int n){
-    srand(time(0));
-    return rand()%n;
+	srand(time(0));
+	return rand()%n;
 }
 
 int main(int argc, char* argv[]) {
@@ -34,8 +32,8 @@ int main(int argc, char* argv[]) {
 
 	if (nClone == 0) {		//主进程
 		//建立信号量
-		SEM_FULL  = CreateSemaphore(NULL, 0, 6, "FULL");
-		SEM_EMPTY = CreateSemaphore(NULL, 6, 6, "EMPTY");
+		SEM_FULL  = CreateSemaphore(NULL, 0, 3, "FULL");
+		SEM_EMPTY = CreateSemaphore(NULL, 3, 3, "EMPTY");
 		SEM_MUTEX = CreateSemaphore(NULL, 1, 1, "MUTEX");
 
 		//建立共享内存
@@ -61,11 +59,11 @@ int main(int argc, char* argv[]) {
 			ZeroMemory(pData, sizeof(shm));	 //分配内存空间，并清零
 		}
 		
-        // 初始化数据缓冲区
-        hMap = OpenFileMapping(FILE_MAP_WRITE, FALSE, "buffer");
-        shm = (struct SHM*)MapViewOfFile(hMap, FILE_MAP_WRITE, 0, 0, sizeof(*shm));
+		// 初始化数据缓冲区
+		hMap = OpenFileMapping(FILE_MAP_WRITE, FALSE, "buffer");
+		shm = (struct SHM*)MapViewOfFile(hMap, FILE_MAP_WRITE, 0, 0, sizeof(*shm));
 		for (i = 0; i<3; i++) {
-            strcpy(shm->buf[i], "-");
+			strcpy(shm->buf[i], "-");
 		}
 
 		//建立5个子进程
@@ -91,89 +89,73 @@ int main(int argc, char* argv[]) {
 	else if (nClone > 0 && nClone < 3) {		// id:1,2 生产者
 		//获得句柄
 		SEM_EMPTY = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "EMPTY");
-		SEM_FULL = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "FULL");
+		SEM_FULL  = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "FULL");
 		SEM_MUTEX = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "MUTEX");
-
 		hMap = OpenFileMapping(FILE_MAP_WRITE, FALSE, "buffer");
 		shm = (struct SHM*)MapViewOfFile(hMap, FILE_MAP_WRITE, 0, 0, sizeof(*shm));
-
 		for (i = 1; i<=6; i++) {
-            //随机等待
-            time = (1+randInt(nClone))*randInt(SLEEP_TIME);            
-            Sleep(time);
-
-            WaitForSingleObject(SEM_EMPTY, INFINITE);	// P(empty)
-            WaitForSingleObject(SEM_MUTEX, INFINITE);	// P(mutex)
-
-            //向缓冲区添加产品,把0置为1
-            int t_writ = shm->write;
-            char t_buf[2];
-			sprintf(t_buf, "%c", 'A'+(randInt(26)+nClone*randInt(26))%26);
-			strcpy(shm->buf[shm->write], t_buf);
-			shm->write = (shm->write + 1) % 3;
-
-			//获得时间
+			time = (1+randInt(nClone))*randInt(SLEEP_TIME);			
+			Sleep(time);
+			WaitForSingleObject(SEM_EMPTY, INFINITE);	// P(empty)
+			WaitForSingleObject(SEM_MUTEX, INFINITE);	// P(mutex)
+			//向缓冲区添加产品,把0置为1
+			char t_buf[2];
+			for (j = 0; j<3; j++){
+				if(strcmp(shm->buf[j], "-") == 0){
+					sprintf(t_buf, "%c", 'A'+(randInt(26)+nClone*randInt(26))%26);
+					strcpy(shm->buf[j], t_buf);
+					break;
+				}
+			}
 			SYSTEMTIME curtime;
 			GetSystemTime(&curtime);
-
 			//输出时间、操作、缓冲区状态
 			printf("[%d] P%d\t%02d:%02d:%02d\t-> buf[%d] = %s\t"
-				,i, nClone, curtime.wHour, curtime.wMinute, curtime.wSecond, t_writ, t_buf);
+				,i, nClone, curtime.wHour, curtime.wMinute, curtime.wSecond, j, t_buf);
 			for (j = 0; j<3; j++) {
 				printf("%s ", shm->buf[j]);
 			}
 			printf("\n");
-
 			ReleaseSemaphore(SEM_MUTEX, 1, NULL);	// V(mutex)
 			ReleaseSemaphore(SEM_FULL,  1, NULL);	// V(full)
 		}
-
 		//关闭句柄
 		CloseHandle(SEM_MUTEX);
 		CloseHandle(SEM_EMPTY);
 		CloseHandle(SEM_FULL);
 		CloseHandle(hMap);
-
 	}
 	else if (nClone>2 && nClone< 6) {		//id:3,4,5 消费者 
 		//获得句柄
 		SEM_EMPTY = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "EMPTY");
 		SEM_FULL  = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "FULL");
-        SEM_MUTEX = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "MUTEX");
-
-        hMap = OpenFileMapping(FILE_MAP_WRITE, FALSE, "buffer");
-        shm = (struct SHM*)MapViewOfFile(hMap, FILE_MAP_WRITE, 0, 0, sizeof(*shm));
-
-        for (i = 1; i<=4; i++) {
-			//随机等待
+		SEM_MUTEX = OpenSemaphore(SEMAPHORE_ALL_ACCESS, NULL, "MUTEX");
+		hMap = OpenFileMapping(FILE_MAP_WRITE, FALSE, "buffer");
+		shm = (struct SHM*)MapViewOfFile(hMap, FILE_MAP_WRITE, 0, 0, sizeof(*shm));
+		for (i = 1; i<=4; i++) {
 			time = (1+randInt(nClone))*randInt(SLEEP_TIME);
 			Sleep(time);
-
-            WaitForSingleObject(SEM_FULL,  INFINITE);	// P(full)
-            WaitForSingleObject(SEM_MUTEX, INFINITE);	// P(mutex)
-
-            SYSTEMTIME curtime;
-            GetSystemTime(&curtime);
-
-            int t_read = shm->read;
-            char t_buf[2];
-            strcpy(t_buf, shm->buf[shm->read]);
-
-            strcpy(shm->buf[shm->read], "-");
-            shm->read = (shm->read + 1) % 3;
-
-            //输出当前信息
-            printf("<%d> C%d\t%02d:%02d:%02d\t<- buf[%d] = %s\t"
-                ,i, nClone - 2, curtime.wHour, curtime.wMinute, curtime.wSecond, t_read, t_buf);
-            for (j = 0; j<3; j++) {
+			WaitForSingleObject(SEM_FULL,  INFINITE);	// P(full)
+			WaitForSingleObject(SEM_MUTEX, INFINITE);	// P(mutex)
+			SYSTEMTIME curtime;
+			GetSystemTime(&curtime);
+			char t_buf[2];
+			for (j = 2; j>=0; j--){
+				if(strcmp(shm->buf[j], "-") != 0){
+					strcpy(t_buf, shm->buf[j]);
+					strcpy(shm->buf[j], "-");
+					break;
+				}
+			}
+			printf("<%d> C%d\t%02d:%02d:%02d\t<- buf[%d] = %s\t"
+				,i, nClone - 2, curtime.wHour, curtime.wMinute, curtime.wSecond, j, t_buf);
+			for (j = 0; j<3; j++) {
 				printf("%s ", shm->buf[j]);
-            }
-            printf("\n");
-
-            ReleaseSemaphore(SEM_MUTEX, 1, NULL);	// V(mutex)
-            ReleaseSemaphore(SEM_EMPTY, 1, NULL);	// V(empty)
+			}
+			printf("\n");
+			ReleaseSemaphore(SEM_MUTEX, 1, NULL);	// V(mutex)
+			ReleaseSemaphore(SEM_EMPTY, 1, NULL);	// V(empty)
 		}
-
 		CloseHandle(SEM_MUTEX);
 		CloseHandle(SEM_EMPTY);
 		CloseHandle(SEM_FULL);
