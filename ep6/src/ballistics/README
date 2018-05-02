@@ -1,0 +1,5 @@
+测试模型可以使用以下命令：
+
+g++ -g -o mainapp ballistics.cpp GBCSolution.cpp Model.cpp modeltest.c
+
+./mainapp
