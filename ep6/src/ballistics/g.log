@@ -1,0 +1,2188 @@
+start p[3]
+p[7] ok
+cmp 2.614091 ? 2.583791 ...
+[7] shm_state time: 2.583791, 2.614091, 1300.127291, next moved 1310 
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.614091 ? 2.614091 ...
+[7] shm_state time: 2.583791, 2.614091, 1300.127291, next moved 1310 
+[3] shm_state time: 2.614091, 2.644520, 1310.108782, next moved 1320 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 2.644520 ? 2.583791 ...
+[3] shm_state time: 2.614091, 2.644520, 1310.108782, next moved 1320 
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.644520 ? 2.583791 ...
+[3] shm_state time: 2.614091, 2.644520, 1310.108782, next moved 1320 
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 2.644520 ? 2.583791 ...
+[7] shm_state time: 2.614091, 2.644520, 1310.108782, next moved 1320 
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.644520 ? 2.644520 ...
+[7] shm_state time: 2.614091, 2.644520, 1310.108782, next moved 1320 
+[3] shm_state time: 2.644520, 2.675076, 1320.089679, next moved 1330 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 2.675076 ? 2.583791 ...
+[3] shm_state time: 2.644520, 2.675076, 1320.089679, next moved 1330 
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.675076 ? 2.583791 ...
+[3] shm_state time: 2.644520, 2.675076, 1320.089679, next moved 1330 
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 2.675076 ? 2.583791 ...
+[7] shm_state time: 2.644520, 2.675076, 1320.089679, next moved 1330 
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.675076 ? 2.675076 ...
+[7] shm_state time: 2.644520, 2.675076, 1320.089679, next moved 1330 
+[3] shm_state time: 2.675076, 2.705758, 1330.069966, next moved 1340 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 2.705758 ? 2.583791 ...
+[3] shm_state time: 2.675076, 2.705758, 1330.069966, next moved 1340 
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.705758 ? 2.583791 ...
+[3] shm_state time: 2.675076, 2.705758, 1330.069966, next moved 1340 
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 2.705758 ? 2.583791 ...
+[7] shm_state time: 2.675076, 2.705758, 1330.069966, next moved 1340 
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.705758 ? 2.705758 ...
+[7] shm_state time: 2.675076, 2.705758, 1330.069966, next moved 1340 
+[3] shm_state time: 2.705758, 2.736566, 1340.049628, next moved 1350 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 2.736566 ? 2.583791 ...
+[3] shm_state time: 2.705758, 2.736566, 1340.049628, next moved 1350 
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+cmp 2.736566 ? 2.583791 ...
+[3] shm_state time: 2.705758, 2.736566, 1340.049628, next moved 1350 
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+3 moving
+V[3] ok
+p[8] ok
+cmp 2.736566 ? 2.736566 ...
+[8] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+cmp 2.736566 ? 2.583791 ...
+[8] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+start p[3]
+8 moving
+V[8] ok
+p[5] ok
+cmp 2.736566 ? 2.736566 ...
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+cmp 2.736566 ? 2.736566 ...
+[5] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[8] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+start p[8]
+5 moving
+V[5] ok
+start p[5]
+p[1] ok
+cmp 2.736566 ? 2.583791 ...
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[2] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+cmp 2.736566 ? 2.736566 ...
+[1] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+1 moving
+p[9] ok
+cmp 2.736566 ? 2.736566 ...
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+cmp 2.736566 ? 2.583791 ...
+[9] shm_state time: 2.583791, 2.736566, 1300.127291, next moved 1350 
+[4] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+V[1] ok
+start p[1]
+9 moving
+V[9] ok
+start p[9]
+p[7] ok
+cmp 2.736566 ? 2.736566 ...
+[7] shm_state time: 2.705758, 2.736566, 1340.049628, next moved 1350 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.736566 ? 2.736566 ...
+[7] shm_state time: 2.705758, 2.736566, 1340.049628, next moved 1350 
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+7 moving
+V[7] ok
+start p[7]
+p[0] ok
+cmp 2.892972 ? 2.736566 ...
+[0] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.892972 ? 2.583791 ...
+[0] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[4] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+0 moving
+V[0] ok
+start p[0]
+p[4] ok
+cmp 2.892972 ? 2.736566 ...
+[4] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[8] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.892972 ? 2.736566 ...
+[4] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+4 moving
+V[4] ok
+p[6] ok
+start p[4]
+cmp 2.892972 ? 2.892972 ...
+[6] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+cmp 2.892972 ? 2.736566 ...
+[6] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+6 moving
+V[6] ok
+p[2] ok
+start p[6]
+cmp 2.892972 ? 2.736566 ...
+[2] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.892972 ? 2.736566 ...
+[2] shm_state time: 2.583791, 2.892972, 1300.127291, next moved 1400 
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+2 moving
+V[2] ok
+p[3] ok
+cmp 2.767498 ? 2.736566 ...
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.767498 ? 2.736566 ...
+[3] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+start p[2]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 2.767498 ? 2.736566 ...
+[7] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.767498 ? 2.767498 ...
+[7] shm_state time: 2.736566, 2.767498, 1350.028649, next moved 1360 
+[3] shm_state time: 2.767498, 2.799071, 1360.007013, next moved 1370 
+7 moving
+V[7] ok
+p[3] ok
+cmp 2.799071 ? 2.736566 ...
+[3] shm_state time: 2.767498, 2.799071, 1360.007013, next moved 1370 
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.799071 ? 2.736566 ...
+[3] shm_state time: 2.767498, 2.799071, 1360.007013, next moved 1370 
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+start p[7]
+3 moving
+p[7] ok
+cmp 2.799071 ? 2.736566 ...
+[7] shm_state time: 2.767498, 2.799071, 1360.007013, next moved 1370 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.799071 ? 2.799071 ...
+[7] shm_state time: 2.767498, 2.799071, 1360.007013, next moved 1370 
+[3] shm_state time: 2.799071, 2.830250, 1370.150994, next moved 1380 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 2.830250 ? 2.736566 ...
+[3] shm_state time: 2.799071, 2.830250, 1370.150994, next moved 1380 
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.830250 ? 2.736566 ...
+[3] shm_state time: 2.799071, 2.830250, 1370.150994, next moved 1380 
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 2.830250 ? 2.736566 ...
+[7] shm_state time: 2.799071, 2.830250, 1370.150994, next moved 1380 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.830250 ? 2.830250 ...
+[7] shm_state time: 2.799071, 2.830250, 1370.150994, next moved 1380 
+[3] shm_state time: 2.830250, 2.861551, 1380.127986, next moved 1390 
+7 moving
+p[3] ok
+cmp 2.861551 ? 2.736566 ...
+[3] shm_state time: 2.830250, 2.861551, 1380.127986, next moved 1390 
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.861551 ? 2.736566 ...
+[3] shm_state time: 2.830250, 2.861551, 1380.127986, next moved 1390 
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 2.861551 ? 2.736566 ...
+[7] shm_state time: 2.830250, 2.861551, 1380.127986, next moved 1390 
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+cmp 2.861551 ? 2.861551 ...
+[7] shm_state time: 2.830250, 2.861551, 1380.127986, next moved 1390 
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+p[9] ok
+cmp 2.892972 ? 2.861551 ...
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+cmp 2.892972 ? 2.892972 ...
+[9] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+start p[7]
+9 moving
+V[9] ok
+start p[9]
+p[5] ok
+cmp 2.892972 ? 2.861551 ...
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+cmp 2.892972 ? 2.736566 ...
+[5] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[8] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+5 moving
+V[5] ok
+p[1] ok
+start p[5]
+cmp 2.892972 ? 2.892972 ...
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[2] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+cmp 2.892972 ? 2.861551 ...
+[1] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+1 moving
+p[8] ok
+cmp 2.892972 ? 2.861551 ...
+[8] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+cmp 2.892972 ? 2.892972 ...
+[8] shm_state time: 2.736566, 2.892972, 1350.028649, next moved 1400 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+V[1] ok
+start p[1]
+8 moving
+V[8] ok
+start p[8]
+p[3] ok
+cmp 2.892972 ? 2.892972 ...
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.892972 ? 2.892972 ...
+[3] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+3 moving
+p[7] ok
+cmp 2.892972 ? 2.892972 ...
+[7] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.892972 ? 2.892972 ...
+[7] shm_state time: 2.861551, 2.892972, 1390.104273, next moved 1400 
+[3] shm_state time: 2.892972, 2.924513, 1400.079838, next moved 1410 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[6] ok
+cmp 3.052391 ? 2.892972 ...
+[6] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+cmp 3.052391 ? 2.892972 ...
+[6] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+6 moving
+V[6] ok
+start p[6]
+p[3] ok
+cmp 2.924513 ? 2.892972 ...
+[3] shm_state time: 2.892972, 2.924513, 1400.079838, next moved 1410 
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.924513 ? 2.892972 ...
+[3] shm_state time: 2.892972, 2.924513, 1400.079838, next moved 1410 
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+3 moving
+p[7] ok
+cmp 2.924513 ? 2.892972 ...
+[7] shm_state time: 2.892972, 2.924513, 1400.079838, next moved 1410 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.924513 ? 2.924513 ...
+[7] shm_state time: 2.892972, 2.924513, 1400.079838, next moved 1410 
+[3] shm_state time: 2.924513, 2.956173, 1410.054665, next moved 1420 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 2.956173 ? 2.892972 ...
+[3] shm_state time: 2.924513, 2.956173, 1410.054665, next moved 1420 
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.956173 ? 2.892972 ...
+[3] shm_state time: 2.924513, 2.956173, 1410.054665, next moved 1420 
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 2.956173 ? 2.892972 ...
+[7] shm_state time: 2.924513, 2.956173, 1410.054665, next moved 1420 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.956173 ? 2.956173 ...
+[7] shm_state time: 2.924513, 2.956173, 1410.054665, next moved 1420 
+[3] shm_state time: 2.956173, 2.987950, 1420.028736, next moved 1430 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 2.987950 ? 2.892972 ...
+[3] shm_state time: 2.956173, 2.987950, 1420.028736, next moved 1430 
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.987950 ? 2.892972 ...
+[3] shm_state time: 2.956173, 2.987950, 1420.028736, next moved 1430 
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 2.987950 ? 2.892972 ...
+[7] shm_state time: 2.956173, 2.987950, 1420.028736, next moved 1430 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 2.987950 ? 2.987950 ...
+[7] shm_state time: 2.956173, 2.987950, 1420.028736, next moved 1430 
+[3] shm_state time: 2.987950, 3.020378, 1430.002035, next moved 1440 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.020378 ? 2.892972 ...
+[3] shm_state time: 2.987950, 3.020378, 1430.002035, next moved 1440 
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 3.020378 ? 2.892972 ...
+[3] shm_state time: 2.987950, 3.020378, 1430.002035, next moved 1440 
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 3.020378 ? 2.892972 ...
+[7] shm_state time: 2.987950, 3.020378, 1430.002035, next moved 1440 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+cmp 3.020378 ? 3.020378 ...
+[7] shm_state time: 2.987950, 3.020378, 1430.002035, next moved 1440 
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+V[3] ok
+start p[3]
+7 moving
+p[8] ok
+cmp 3.052391 ? 3.020378 ...
+[8] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+cmp 3.052391 ? 2.892972 ...
+[8] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+V[7] ok
+start p[7]
+8 moving
+p[1] ok
+cmp 3.052391 ? 2.892972 ...
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[2] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+cmp 3.052391 ? 3.020378 ...
+[1] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+V[8] ok
+start p[8]
+1 moving
+V[1] ok
+p[9] ok
+cmp 3.052391 ? 3.020378 ...
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+cmp 3.052391 ? 2.892972 ...
+[9] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+start p[1]
+9 moving
+p[5] ok
+cmp 3.052391 ? 3.020378 ...
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+cmp 3.052391 ? 3.052391 ...
+[5] shm_state time: 2.892972, 3.052391, 1400.079838, next moved 1450 
+[8] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+V[9] ok
+start p[9]
+5 moving
+V[5] ok
+start p[5]
+p[3] ok
+cmp 3.052391 ? 3.052391 ...
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.052391 ? 3.052391 ...
+[3] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+3 moving
+V[3] ok
+p[7] ok
+cmp 3.052391 ? 3.052391 ...
+[7] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+start p[3]
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.052391 ? 3.052391 ...
+[7] shm_state time: 3.020378, 3.052391, 1440.140744, next moved 1450 
+[3] shm_state time: 3.052391, 3.084520, 1450.112430, next moved 1460 
+7 moving
+V[7] ok
+p[6] ok
+cmp 3.214730 ? 2.892972 ...
+start p[7]
+[6] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+cmp 3.214730 ? 3.052391 ...
+[6] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+6 moving
+V[6] ok
+p[4] ok
+cmp 3.214730 ? 3.052391 ...
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[8] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.214730 ? 3.052391 ...
+[4] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+start p[6]
+4 moving
+V[4] ok
+p[2] ok
+cmp 3.214730 ? 3.052391 ...
+[2] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.214730 ? 3.052391 ...
+[2] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+start p[4]
+2 moving
+p[0] ok
+cmp 3.214730 ? 3.052391 ...
+[0] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.214730 ? 3.214730 ...
+[0] shm_state time: 2.892972, 3.214730, 1400.079838, next moved 1500 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+V[2] ok
+start p[2]
+0 moving
+p[3] ok
+cmp 3.084520 ? 3.052391 ...
+[3] shm_state time: 3.052391, 3.084520, 1450.112430, next moved 1460 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+V[0] ok
+cmp 3.084520 ? 3.052391 ...
+[3] shm_state time: 3.052391, 3.084520, 1450.112430, next moved 1460 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+start p[0]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.084520 ? 3.052391 ...
+[7] shm_state time: 3.052391, 3.084520, 1450.112430, next moved 1460 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.084520 ? 3.084520 ...
+[7] shm_state time: 3.052391, 3.084520, 1450.112430, next moved 1460 
+[3] shm_state time: 3.084520, 3.116765, 1460.083290, next moved 1470 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.116765 ? 3.052391 ...
+[3] shm_state time: 3.084520, 3.116765, 1460.083290, next moved 1470 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.116765 ? 3.052391 ...
+[3] shm_state time: 3.084520, 3.116765, 1460.083290, next moved 1470 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.116765 ? 3.052391 ...
+[7] shm_state time: 3.084520, 3.116765, 1460.083290, next moved 1470 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.116765 ? 3.116765 ...
+[7] shm_state time: 3.084520, 3.116765, 1460.083290, next moved 1470 
+[3] shm_state time: 3.116765, 3.149124, 1470.053304, next moved 1480 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.149124 ? 3.052391 ...
+[3] shm_state time: 3.116765, 3.149124, 1470.053304, next moved 1480 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.149124 ? 3.052391 ...
+[3] shm_state time: 3.116765, 3.149124, 1470.053304, next moved 1480 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+3 moving
+p[7] ok
+cmp 3.149124 ? 3.052391 ...
+[7] shm_state time: 3.116765, 3.149124, 1470.053304, next moved 1480 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.149124 ? 3.149124 ...
+[7] shm_state time: 3.116765, 3.149124, 1470.053304, next moved 1480 
+[3] shm_state time: 3.149124, 3.182140, 1480.022455, next moved 1490 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.182140 ? 3.052391 ...
+[3] shm_state time: 3.149124, 3.182140, 1480.022455, next moved 1490 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.182140 ? 3.052391 ...
+[3] shm_state time: 3.149124, 3.182140, 1480.022455, next moved 1490 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.182140 ? 3.052391 ...
+[7] shm_state time: 3.149124, 3.182140, 1480.022455, next moved 1490 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.182140 ? 3.182140 ...
+[7] shm_state time: 3.149124, 3.182140, 1480.022455, next moved 1490 
+[3] shm_state time: 3.182140, 3.214730, 1490.156855, next moved 1500 
+7 moving
+V[7] ok
+p[3] ok
+start p[7]
+cmp 3.214730 ? 3.052391 ...
+[3] shm_state time: 3.182140, 3.214730, 1490.156855, next moved 1500 
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+cmp 3.214730 ? 3.052391 ...
+[3] shm_state time: 3.182140, 3.214730, 1490.156855, next moved 1500 
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+3 moving
+V[3] ok
+start p[3]
+p[1] ok
+cmp 3.214730 ? 3.214730 ...
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[2] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+cmp 3.214730 ? 3.214730 ...
+[1] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+1 moving
+p[8] ok
+cmp 3.214730 ? 3.214730 ...
+[8] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+cmp 3.214730 ? 3.052391 ...
+[8] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+V[1] ok
+start p[1]
+8 moving
+V[8] ok
+start p[8]
+p[9] ok
+cmp 3.214730 ? 3.214730 ...
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+cmp 3.214730 ? 3.214730 ...
+[9] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+9 moving
+p[5] ok
+cmp 3.214730 ? 3.214730 ...
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+cmp 3.214730 ? 3.214730 ...
+[5] shm_state time: 3.052391, 3.214730, 1450.112430, next moved 1500 
+[8] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+V[9] ok
+start p[9]
+5 moving
+p[7] ok
+cmp 3.214730 ? 3.214730 ...
+[7] shm_state time: 3.182140, 3.214730, 1490.156855, next moved 1500 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.214730 ? 3.214730 ...
+[7] shm_state time: 3.182140, 3.214730, 1490.156855, next moved 1500 
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+V[5] ok
+start p[5]
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.247432 ? 3.214730 ...
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.247432 ? 3.214730 ...
+[3] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+3 moving
+p[6] ok
+cmp 3.379914 ? 3.214730 ...
+[6] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+cmp 3.379914 ? 3.214730 ...
+[6] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+V[3] ok
+start p[3]
+6 moving
+V[6] ok
+p[7] ok
+cmp 3.247432 ? 3.214730 ...
+[7] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.247432 ? 3.247432 ...
+[7] shm_state time: 3.214730, 3.247432, 1500.124209, next moved 1510 
+[3] shm_state time: 3.247432, 3.280247, 1510.090642, next moved 1520 
+start p[6]
+7 moving
+V[7] ok
+p[3] ok
+cmp 3.280247 ? 3.214730 ...
+[3] shm_state time: 3.247432, 3.280247, 1510.090642, next moved 1520 
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.280247 ? 3.214730 ...
+[3] shm_state time: 3.247432, 3.280247, 1510.090642, next moved 1520 
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+start p[7]
+3 moving
+p[7] ok
+cmp 3.280247 ? 3.214730 ...
+[7] shm_state time: 3.247432, 3.280247, 1510.090642, next moved 1520 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.280247 ? 3.280247 ...
+[7] shm_state time: 3.247432, 3.280247, 1510.090642, next moved 1520 
+[3] shm_state time: 3.280247, 3.313173, 1520.056136, next moved 1530 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.313173 ? 3.214730 ...
+[3] shm_state time: 3.280247, 3.313173, 1520.056136, next moved 1530 
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.313173 ? 3.214730 ...
+[3] shm_state time: 3.280247, 3.313173, 1520.056136, next moved 1530 
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.313173 ? 3.214730 ...
+[7] shm_state time: 3.280247, 3.313173, 1520.056136, next moved 1530 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.313173 ? 3.313173 ...
+[7] shm_state time: 3.280247, 3.313173, 1520.056136, next moved 1530 
+[3] shm_state time: 3.313173, 3.346763, 1530.020671, next moved 1540 
+7 moving
+p[3] ok
+cmp 3.346763 ? 3.214730 ...
+[3] shm_state time: 3.313173, 3.346763, 1530.020671, next moved 1540 
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.346763 ? 3.214730 ...
+[3] shm_state time: 3.313173, 3.346763, 1530.020671, next moved 1540 
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+p[7] ok
+cmp 3.346763 ? 3.214730 ...
+[7] shm_state time: 3.313173, 3.346763, 1530.020671, next moved 1540 
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+cmp 3.346763 ? 3.346763 ...
+[7] shm_state time: 3.313173, 3.346763, 1530.020671, next moved 1540 
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[1] ok
+cmp 3.379914 ? 3.214730 ...
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[2] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+cmp 3.379914 ? 3.346763 ...
+[1] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+1 moving
+V[1] ok
+start p[1]
+p[5] ok
+cmp 3.379914 ? 3.346763 ...
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+cmp 3.379914 ? 3.214730 ...
+[5] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[8] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+5 moving
+p[8] ok
+cmp 3.379914 ? 3.346763 ...
+[8] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+cmp 3.379914 ? 3.379914 ...
+[8] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+V[5] ok
+start p[5]
+8 moving
+V[8] ok
+start p[8]
+p[9] ok
+cmp 3.379914 ? 3.346763 ...
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+cmp 3.379914 ? 3.214730 ...
+[9] shm_state time: 3.214730, 3.379914, 1500.124209, next moved 1550 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+9 moving
+V[9] ok
+p[3] ok
+cmp 3.379914 ? 3.379914 ...
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.379914 ? 3.379914 ...
+[3] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+start p[9]
+3 moving
+p[7] ok
+cmp 3.379914 ? 3.379914 ...
+[7] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.379914 ? 3.379914 ...
+[7] shm_state time: 3.346763, 3.379914, 1540.150277, next moved 1550 
+[3] shm_state time: 3.379914, 3.413175, 1550.112816, next moved 1560 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+p[2] ok
+start p[7]
+cmp 3.547877 ? 3.379914 ...
+[2] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.547877 ? 3.379914 ...
+[2] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+2 moving
+p[6] ok
+cmp 3.547877 ? 3.214730 ...
+[6] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+cmp 3.547877 ? 3.379914 ...
+[6] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+V[2] ok
+start p[2]
+6 moving
+V[6] ok
+start p[6]
+p[0] ok
+cmp 3.547877 ? 3.379914 ...
+[0] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.547877 ? 3.214730 ...
+[0] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+0 moving
+p[4] ok
+cmp 3.547877 ? 3.379914 ...
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[8] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.547877 ? 3.379914 ...
+[4] shm_state time: 3.214730, 3.547877, 1500.124209, next moved 1600 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+V[0] ok
+start p[0]
+4 moving
+V[4] ok
+start p[4]
+p[3] ok
+cmp 3.413175 ? 3.379914 ...
+[3] shm_state time: 3.379914, 3.413175, 1550.112816, next moved 1560 
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.413175 ? 3.379914 ...
+[3] shm_state time: 3.379914, 3.413175, 1550.112816, next moved 1560 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+3 moving
+p[7] ok
+cmp 3.413175 ? 3.379914 ...
+[7] shm_state time: 3.379914, 3.413175, 1550.112816, next moved 1560 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.413175 ? 3.413175 ...
+[7] shm_state time: 3.379914, 3.413175, 1550.112816, next moved 1560 
+[3] shm_state time: 3.413175, 3.446545, 1560.074334, next moved 1570 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.446545 ? 3.379914 ...
+[3] shm_state time: 3.413175, 3.446545, 1560.074334, next moved 1570 
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.446545 ? 3.379914 ...
+[3] shm_state time: 3.413175, 3.446545, 1560.074334, next moved 1570 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 3.446545 ? 3.379914 ...
+[7] shm_state time: 3.413175, 3.446545, 1560.074334, next moved 1570 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.446545 ? 3.446545 ...
+[7] shm_state time: 3.413175, 3.446545, 1560.074334, next moved 1570 
+[3] shm_state time: 3.446545, 3.480585, 1570.034811, next moved 1580 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.480585 ? 3.379914 ...
+[3] shm_state time: 3.446545, 3.480585, 1570.034811, next moved 1580 
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.480585 ? 3.379914 ...
+[3] shm_state time: 3.446545, 3.480585, 1570.034811, next moved 1580 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.480585 ? 3.379914 ...
+[7] shm_state time: 3.446545, 3.480585, 1570.034811, next moved 1580 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.480585 ? 3.480585 ...
+[7] shm_state time: 3.446545, 3.480585, 1570.034811, next moved 1580 
+[3] shm_state time: 3.480585, 3.514177, 1580.160207, next moved 1590 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.514177 ? 3.379914 ...
+[3] shm_state time: 3.480585, 3.514177, 1580.160207, next moved 1590 
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.514177 ? 3.379914 ...
+[3] shm_state time: 3.480585, 3.514177, 1580.160207, next moved 1590 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.514177 ? 3.379914 ...
+[7] shm_state time: 3.480585, 3.514177, 1580.160207, next moved 1590 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+cmp 3.514177 ? 3.514177 ...
+[7] shm_state time: 3.480585, 3.514177, 1580.160207, next moved 1590 
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+7 moving
+p[9] ok
+cmp 3.547877 ? 3.514177 ...
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+cmp 3.547877 ? 3.547877 ...
+[9] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+V[7] ok
+start p[7]
+9 moving
+p[8] ok
+cmp 3.547877 ? 3.514177 ...
+[8] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+cmp 3.547877 ? 3.379914 ...
+[8] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+V[9] ok
+start p[9]
+8 moving
+p[5] ok
+cmp 3.547877 ? 3.514177 ...
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+cmp 3.547877 ? 3.547877 ...
+[5] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[8] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+V[8] ok
+start p[8]
+5 moving
+V[5] ok
+p[3] ok
+cmp 3.547877 ? 3.547877 ...
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.547877 ? 3.379914 ...
+[3] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+start p[5]
+3 moving
+V[3] ok
+p[1] ok
+start p[3]
+cmp 3.547877 ? 3.547877 ...
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[2] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+cmp 3.547877 ? 3.547877 ...
+[1] shm_state time: 3.379914, 3.547877, 1550.112816, next moved 1600 
+[3] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+1 moving
+V[1] ok
+start p[1]
+p[7] ok
+cmp 3.547877 ? 3.547877 ...
+[7] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.547877 ? 3.547877 ...
+[7] shm_state time: 3.514177, 3.547877, 1590.118520, next moved 1600 
+[3] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+7 moving
+V[7] ok
+p[6] ok
+start p[7]
+cmp 3.718572 ? 3.547877 ...
+[6] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+cmp 3.718572 ? 3.547877 ...
+[6] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+6 moving
+V[6] ok
+start p[6]
+p[3] ok
+cmp 3.581686 ? 3.547877 ...
+[3] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.581686 ? 3.547877 ...
+[3] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+3 moving
+p[7] ok
+cmp 3.581686 ? 3.547877 ...
+[7] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.581686 ? 3.581686 ...
+[7] shm_state time: 3.547877, 3.581686, 1600.075727, next moved 1610 
+[3] shm_state time: 3.581686, 3.616170, 1610.031808, next moved 1620 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.616170 ? 3.547877 ...
+[3] shm_state time: 3.581686, 3.616170, 1610.031808, next moved 1620 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.616170 ? 3.547877 ...
+[3] shm_state time: 3.581686, 3.616170, 1610.031808, next moved 1620 
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 3.616170 ? 3.547877 ...
+[7] shm_state time: 3.581686, 3.616170, 1610.031808, next moved 1620 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.616170 ? 3.616170 ...
+[7] shm_state time: 3.581686, 3.616170, 1610.031808, next moved 1620 
+[3] shm_state time: 3.616170, 3.650197, 1620.152645, next moved 1630 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 3.650197 ? 3.547877 ...
+[3] shm_state time: 3.616170, 3.650197, 1620.152645, next moved 1630 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.650197 ? 3.547877 ...
+[3] shm_state time: 3.616170, 3.650197, 1620.152645, next moved 1630 
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.650197 ? 3.547877 ...
+[7] shm_state time: 3.616170, 3.650197, 1620.152645, next moved 1630 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.650197 ? 3.650197 ...
+[7] shm_state time: 3.616170, 3.650197, 1620.152645, next moved 1630 
+[3] shm_state time: 3.650197, 3.684331, 1630.106385, next moved 1640 
+7 moving
+V[7] ok
+p[3] ok
+cmp 3.684331 ? 3.547877 ...
+[3] shm_state time: 3.650197, 3.684331, 1630.106385, next moved 1640 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.684331 ? 3.547877 ...
+[3] shm_state time: 3.650197, 3.684331, 1630.106385, next moved 1640 
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.684331 ? 3.547877 ...
+[7] shm_state time: 3.650197, 3.684331, 1630.106385, next moved 1640 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.684331 ? 3.684331 ...
+[7] shm_state time: 3.650197, 3.684331, 1630.106385, next moved 1640 
+[3] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+7 moving
+V[7] ok
+start p[7]
+p[8] ok
+cmp 3.718572 ? 3.684331 ...
+[8] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[3] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+cmp 3.718572 ? 3.547877 ...
+[8] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+8 moving
+p[3] ok
+cmp 3.718572 ? 3.547877 ...
+[3] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+cmp 3.718572 ? 3.547877 ...
+[3] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+V[8] ok
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+start p[8]
+3 moving
+V[3] ok
+start p[3]
+p[5] ok
+cmp 3.718572 ? 3.718572 ...
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+cmp 3.718572 ? 3.718572 ...
+[5] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[8] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+5 moving
+V[5] ok
+start p[5]
+p[1] ok
+cmp 3.718572 ? 3.547877 ...
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[2] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+cmp 3.718572 ? 3.718572 ...
+[1] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+1 moving
+V[1] ok
+start p[1]
+p[9] ok
+cmp 3.718572 ? 3.718572 ...
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+cmp 3.718572 ? 3.547877 ...
+[9] shm_state time: 3.547877, 3.718572, 1600.075727, next moved 1650 
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+9 moving
+V[9] ok
+start p[9]
+p[7] ok
+cmp 3.718572 ? 3.718572 ...
+[7] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.718572 ? 3.718572 ...
+[7] shm_state time: 3.684331, 3.718572, 1640.058931, next moved 1650 
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+7 moving
+V[7] ok
+p[0] ok
+start p[7]
+cmp 3.892534 ? 3.718572 ...
+[0] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.892534 ? 3.547877 ...
+[0] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+0 moving
+p[6] ok
+cmp 3.892534 ? 3.547877 ...
+[6] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+cmp 3.892534 ? 3.718572 ...
+[6] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+V[0] ok
+start p[0]
+6 moving
+V[6] ok
+start p[6]
+p[4] ok
+cmp 3.892534 ? 3.718572 ...
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[8] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.892534 ? 3.718572 ...
+[4] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+4 moving
+V[4] ok
+start p[4]
+p[2] ok
+cmp 3.892534 ? 3.718572 ...
+[2] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.892534 ? 3.718572 ...
+[2] shm_state time: 3.547877, 3.892534, 1600.075727, next moved 1700 
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+2 moving
+V[2] ok
+start p[2]
+p[3] ok
+cmp 3.753494 ? 3.718572 ...
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.753494 ? 3.718572 ...
+[3] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+3 moving
+p[7] ok
+cmp 3.753494 ? 3.718572 ...
+[7] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.753494 ? 3.753494 ...
+[7] shm_state time: 3.718572, 3.753494, 1650.010259, next moved 1660 
+[3] shm_state time: 3.753494, 3.787950, 1660.126171, next moved 1670 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.787950 ? 3.718572 ...
+[3] shm_state time: 3.753494, 3.787950, 1660.126171, next moved 1670 
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.787950 ? 3.718572 ...
+[3] shm_state time: 3.753494, 3.787950, 1660.126171, next moved 1670 
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.787950 ? 3.718572 ...
+[7] shm_state time: 3.753494, 3.787950, 1660.126171, next moved 1670 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.787950 ? 3.787950 ...
+[7] shm_state time: 3.753494, 3.787950, 1660.126171, next moved 1670 
+[3] shm_state time: 3.787950, 3.822512, 1670.074974, next moved 1680 
+7 moving
+V[7] ok
+p[3] ok
+cmp 3.822512 ? 3.718572 ...
+[3] shm_state time: 3.787950, 3.822512, 1670.074974, next moved 1680 
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.822512 ? 3.718572 ...
+[3] shm_state time: 3.787950, 3.822512, 1670.074974, next moved 1680 
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+start p[7]
+3 moving
+p[7] ok
+cmp 3.822512 ? 3.718572 ...
+[7] shm_state time: 3.787950, 3.822512, 1670.074974, next moved 1680 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.822512 ? 3.822512 ...
+[7] shm_state time: 3.787950, 3.822512, 1670.074974, next moved 1680 
+[3] shm_state time: 3.822512, 3.857759, 1680.022489, next moved 1690 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+p[3] ok
+start p[7]
+cmp 3.857759 ? 3.718572 ...
+[3] shm_state time: 3.822512, 3.857759, 1680.022489, next moved 1690 
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.857759 ? 3.718572 ...
+[3] shm_state time: 3.822512, 3.857759, 1680.022489, next moved 1690 
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.857759 ? 3.718572 ...
+[7] shm_state time: 3.822512, 3.857759, 1680.022489, next moved 1690 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.857759 ? 3.857759 ...
+[7] shm_state time: 3.822512, 3.857759, 1680.022489, next moved 1690 
+[3] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+7 moving
+V[7] ok
+p[8] ok
+cmp 3.892534 ? 3.857759 ...
+[8] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[3] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+cmp 3.892534 ? 3.718572 ...
+[8] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+start p[7]
+8 moving
+p[1] ok
+cmp 3.892534 ? 3.892534 ...
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[2] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+cmp 3.892534 ? 3.857759 ...
+[1] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[3] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+V[8] ok
+start p[8]
+1 moving
+V[1] ok
+p[3] ok
+cmp 3.892534 ? 3.718572 ...
+[3] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+cmp 3.892534 ? 3.892534 ...
+[3] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+start p[1]
+3 moving
+p[5] ok
+cmp 3.892534 ? 3.892534 ...
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[3] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+cmp 3.892534 ? 3.892534 ...
+[5] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[8] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+V[3] ok
+start p[3]
+5 moving
+p[9] ok
+cmp 3.892534 ? 3.892534 ...
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[3] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+cmp 3.892534 ? 3.892534 ...
+[9] shm_state time: 3.718572, 3.892534, 1650.010259, next moved 1700 
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+V[5] ok
+start p[5]
+9 moving
+p[7] ok
+cmp 3.892534 ? 3.892534 ...
+[7] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.892534 ? 3.892534 ...
+[7] shm_state time: 3.857759, 3.892534, 1690.134451, next moved 1700 
+[3] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+V[9] ok
+start p[9]
+7 moving
+V[7] ok
+p[6] ok
+cmp 4.069158 ? 3.892534 ...
+[6] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+cmp 4.069158 ? 3.892534 ...
+[6] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+start p[7]
+6 moving
+V[6] ok
+p[3] ok
+cmp 3.927414 ? 3.892534 ...
+[3] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.927414 ? 3.892534 ...
+[3] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+start p[6]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.927414 ? 3.892534 ...
+[7] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.927414 ? 3.927414 ...
+[7] shm_state time: 3.892534, 3.927414, 1700.079295, next moved 1710 
+[3] shm_state time: 3.927414, 3.962983, 1710.022777, next moved 1720 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.962983 ? 3.892534 ...
+[3] shm_state time: 3.927414, 3.962983, 1710.022777, next moved 1720 
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.962983 ? 3.892534 ...
+[3] shm_state time: 3.927414, 3.962983, 1710.022777, next moved 1720 
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.962983 ? 3.892534 ...
+[7] shm_state time: 3.927414, 3.962983, 1710.022777, next moved 1720 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.962983 ? 3.962983 ...
+[7] shm_state time: 3.927414, 3.962983, 1710.022777, next moved 1720 
+[3] shm_state time: 3.962983, 3.998074, 1720.130564, next moved 1730 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 3.998074 ? 3.892534 ...
+[3] shm_state time: 3.962983, 3.998074, 1720.130564, next moved 1730 
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.998074 ? 3.892534 ...
+[3] shm_state time: 3.962983, 3.998074, 1720.130564, next moved 1730 
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 3.998074 ? 3.892534 ...
+[7] shm_state time: 3.962983, 3.998074, 1720.130564, next moved 1730 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 3.998074 ? 3.998074 ...
+[7] shm_state time: 3.962983, 3.998074, 1720.130564, next moved 1730 
+[3] shm_state time: 3.998074, 4.033270, 1730.071225, next moved 1740 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 4.033270 ? 3.892534 ...
+[3] shm_state time: 3.998074, 4.033270, 1730.071225, next moved 1740 
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 4.033270 ? 3.892534 ...
+[3] shm_state time: 3.998074, 4.033270, 1730.071225, next moved 1740 
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+3 moving
+V[3] ok
+p[7] ok
+cmp 4.033270 ? 3.892534 ...
+[7] shm_state time: 3.998074, 4.033270, 1730.071225, next moved 1740 
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+cmp 4.033270 ? 4.033270 ...
+[7] shm_state time: 3.998074, 4.033270, 1730.071225, next moved 1740 
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[5] ok
+cmp 4.069158 ? 4.033270 ...
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+cmp 4.069158 ? 3.892534 ...
+[5] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[8] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+5 moving
+V[5] ok
+start p[5]
+p[8] ok
+cmp 4.069158 ? 4.033270 ...
+[8] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+cmp 4.069158 ? 4.069158 ...
+[8] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+8 moving
+V[8] ok
+start p[8]
+p[1] ok
+cmp 4.069158 ? 3.892534 ...
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[2] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+cmp 4.069158 ? 4.033270 ...
+[1] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+1 moving
+V[1] ok
+start p[1]
+p[9] ok
+cmp 4.069158 ? 4.033270 ...
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+cmp 4.069158 ? 3.892534 ...
+[9] shm_state time: 3.892534, 4.069158, 1700.079295, next moved 1750 
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+9 moving
+p[3] ok
+V[9] ok
+cmp 4.069158 ? 4.069158 ...
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.069158 ? 4.069158 ...
+[3] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+start p[9]
+3 moving
+p[7] ok
+cmp 4.069158 ? 4.069158 ...
+[7] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.069158 ? 4.069158 ...
+[7] shm_state time: 4.033270, 4.069158, 1740.010448, next moved 1750 
+[3] shm_state time: 4.069158, 4.104563, 1750.113826, next moved 1760 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[0] ok
+cmp 4.248415 ? 4.069158 ...
+[0] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.248415 ? 3.892534 ...
+[0] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+0 moving
+p[6] ok
+cmp 4.248415 ? 3.892534 ...
+[6] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+cmp 4.248415 ? 4.069158 ...
+[6] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+V[0] ok
+start p[0]
+6 moving
+V[6] ok
+p[4] ok
+cmp 4.248415 ? 4.069158 ...
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[8] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.248415 ? 4.069158 ...
+[4] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+start p[6]
+4 moving
+V[4] ok
+start p[4]
+p[2] ok
+cmp 4.248415 ? 4.069158 ...
+[2] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.248415 ? 4.069158 ...
+[2] shm_state time: 3.892534, 4.248415, 1700.079295, next moved 1800 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+2 moving
+V[2] ok
+start p[2]
+p[3] ok
+cmp 4.104563 ? 4.069158 ...
+[3] shm_state time: 4.069158, 4.104563, 1750.113826, next moved 1760 
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.104563 ? 4.069158 ...
+[3] shm_state time: 4.069158, 4.104563, 1750.113826, next moved 1760 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+3 moving
+p[7] ok
+cmp 4.104563 ? 4.069158 ...
+[7] shm_state time: 4.069158, 4.104563, 1750.113826, next moved 1760 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.104563 ? 4.104563 ...
+[7] shm_state time: 4.069158, 4.104563, 1750.113826, next moved 1760 
+[3] shm_state time: 4.104563, 4.140665, 1760.050072, next moved 1770 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.140665 ? 4.069158 ...
+[3] shm_state time: 4.104563, 4.140665, 1760.050072, next moved 1770 
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.140665 ? 4.069158 ...
+[3] shm_state time: 4.104563, 4.140665, 1760.050072, next moved 1770 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.140665 ? 4.069158 ...
+[7] shm_state time: 4.104563, 4.140665, 1760.050072, next moved 1770 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.140665 ? 4.140665 ...
+[7] shm_state time: 4.104563, 4.140665, 1760.050072, next moved 1770 
+[3] shm_state time: 4.140665, 4.176279, 1770.150368, next moved 1780 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.176279 ? 4.069158 ...
+[3] shm_state time: 4.140665, 4.176279, 1770.150368, next moved 1780 
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.176279 ? 4.069158 ...
+[3] shm_state time: 4.140665, 4.176279, 1770.150368, next moved 1780 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.176279 ? 4.069158 ...
+[7] shm_state time: 4.140665, 4.176279, 1770.150368, next moved 1780 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.176279 ? 4.176279 ...
+[7] shm_state time: 4.140665, 4.176279, 1770.150368, next moved 1780 
+[3] shm_state time: 4.176279, 4.211996, 1780.083529, next moved 1790 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.211996 ? 4.069158 ...
+[3] shm_state time: 4.176279, 4.211996, 1780.083529, next moved 1790 
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.211996 ? 4.069158 ...
+[3] shm_state time: 4.176279, 4.211996, 1780.083529, next moved 1790 
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.211996 ? 4.069158 ...
+[7] shm_state time: 4.176279, 4.211996, 1780.083529, next moved 1790 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+cmp 4.211996 ? 4.211996 ...
+[7] shm_state time: 4.176279, 4.211996, 1780.083529, next moved 1790 
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+start p[7]
+p[8] ok
+cmp 4.248415 ? 4.211996 ...
+[8] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+cmp 4.248415 ? 4.069158 ...
+[8] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+8 moving
+p[5] ok
+cmp 4.248415 ? 4.211996 ...
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+cmp 4.248415 ? 4.248415 ...
+[5] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[8] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+V[8] ok
+start p[8]
+5 moving
+V[5] ok
+p[1] ok
+start p[5]
+cmp 4.248415 ? 4.248415 ...
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[2] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+cmp 4.248415 ? 4.211996 ...
+[1] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+1 moving
+p[9] ok
+cmp 4.248415 ? 4.211996 ...
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+cmp 4.248415 ? 4.248415 ...
+[9] shm_state time: 4.069158, 4.248415, 1750.113826, next moved 1800 
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+V[1] ok
+start p[1]
+9 moving
+V[9] ok
+start p[9]
+p[3] ok
+cmp 4.248415 ? 4.248415 ...
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.248415 ? 4.248415 ...
+[3] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+3 moving
+p[7] ok
+cmp 4.248415 ? 4.248415 ...
+[7] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.248415 ? 4.248415 ...
+[7] shm_state time: 4.211996, 4.248415, 1790.015121, next moved 1800 
+[3] shm_state time: 4.248415, 4.284340, 1800.110601, next moved 1810 
+V[3] ok
+start p[3]
+7 moving
+V[7] ok
+p[6] ok
+cmp 4.430279 ? 4.248415 ...
+[6] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+cmp 4.430279 ? 4.248415 ...
+[6] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+start p[7]
+6 moving
+V[6] ok
+start p[6]
+p[3] ok
+cmp 4.284340 ? 4.248415 ...
+[3] shm_state time: 4.248415, 4.284340, 1800.110601, next moved 1810 
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.284340 ? 4.248415 ...
+[3] shm_state time: 4.248415, 4.284340, 1800.110601, next moved 1810 
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+3 moving
+p[7] ok
+cmp 4.284340 ? 4.248415 ...
+[7] shm_state time: 4.248415, 4.284340, 1800.110601, next moved 1810 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.284340 ? 4.284340 ...
+[7] shm_state time: 4.248415, 4.284340, 1800.110601, next moved 1810 
+[3] shm_state time: 4.284340, 4.320969, 1810.038943, next moved 1820 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.320969 ? 4.248415 ...
+[3] shm_state time: 4.284340, 4.320969, 1810.038943, next moved 1820 
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.320969 ? 4.248415 ...
+[3] shm_state time: 4.284340, 4.320969, 1810.038943, next moved 1820 
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.320969 ? 4.248415 ...
+[7] shm_state time: 4.284340, 4.320969, 1810.038943, next moved 1820 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.320969 ? 4.320969 ...
+[7] shm_state time: 4.284340, 4.320969, 1810.038943, next moved 1820 
+[3] shm_state time: 4.320969, 4.357101, 1820.131062, next moved 1830 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.357101 ? 4.248415 ...
+[3] shm_state time: 4.320969, 4.357101, 1820.131062, next moved 1830 
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.357101 ? 4.248415 ...
+[3] shm_state time: 4.320969, 4.357101, 1820.131062, next moved 1830 
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.357101 ? 4.248415 ...
+[7] shm_state time: 4.320969, 4.357101, 1820.131062, next moved 1830 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.357101 ? 4.357101 ...
+[7] shm_state time: 4.320969, 4.357101, 1820.131062, next moved 1830 
+[3] shm_state time: 4.357101, 4.393941, 1830.056041, next moved 1840 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.393941 ? 4.248415 ...
+[3] shm_state time: 4.357101, 4.393941, 1830.056041, next moved 1840 
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.393941 ? 4.248415 ...
+[3] shm_state time: 4.357101, 4.393941, 1830.056041, next moved 1840 
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.393941 ? 4.248415 ...
+[7] shm_state time: 4.357101, 4.393941, 1830.056041, next moved 1840 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+cmp 4.393941 ? 4.393941 ...
+[7] shm_state time: 4.357101, 4.393941, 1830.056041, next moved 1840 
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+V[3] ok
+start p[3]
+7 moving
+p[1] ok
+cmp 4.430279 ? 4.248415 ...
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[2] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+cmp 4.430279 ? 4.393941 ...
+[1] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+V[7] ok
+start p[7]
+1 moving
+V[1] ok
+start p[1]
+p[8] ok
+cmp 4.430279 ? 4.393941 ...
+[8] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+cmp 4.430279 ? 4.248415 ...
+[8] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+8 moving
+p[9] ok
+cmp 4.430279 ? 4.393941 ...
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+cmp 4.430279 ? 4.248415 ...
+[9] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+V[8] ok
+start p[8]
+9 moving
+V[9] ok
+p[5] ok
+cmp 4.430279 ? 4.393941 ...
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+cmp 4.430279 ? 4.430279 ...
+[5] shm_state time: 4.248415, 4.430279, 1800.110601, next moved 1850 
+[8] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+start p[9]
+5 moving
+V[5] ok
+start p[5]
+p[3] ok
+cmp 4.430279 ? 4.430279 ...
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.430279 ? 4.430279 ...
+[3] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 4.430279 ? 4.430279 ...
+[7] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.430279 ? 4.430279 ...
+[7] shm_state time: 4.393941, 4.430279, 1840.144682, next moved 1850 
+[3] shm_state time: 4.430279, 4.467328, 1850.066182, next moved 1860 
+7 moving
+p[6] ok
+cmp 4.615341 ? 4.248415 ...
+[6] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+cmp 4.615341 ? 4.430279 ...
+[6] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[7] ok
+start p[7]
+6 moving
+V[6] ok
+p[0] ok
+cmp 4.615341 ? 4.430279 ...
+[0] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.615341 ? 4.248415 ...
+[0] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+start p[6]
+0 moving
+V[0] ok
+start p[0]
+p[2] ok
+cmp 4.615341 ? 4.430279 ...
+[2] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.615341 ? 4.430279 ...
+[2] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+2 moving
+p[4] ok
+cmp 4.615341 ? 4.430279 ...
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[8] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.615341 ? 4.430279 ...
+[4] shm_state time: 4.248415, 4.615341, 1800.110601, next moved 1900 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[2] ok
+start p[2]
+4 moving
+V[4] ok
+p[3] ok
+start p[4]
+cmp 4.467328 ? 4.430279 ...
+[3] shm_state time: 4.430279, 4.467328, 1850.066182, next moved 1860 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.467328 ? 4.430279 ...
+[3] shm_state time: 4.430279, 4.467328, 1850.066182, next moved 1860 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+3 moving
+p[7] ok
+cmp 4.467328 ? 4.430279 ...
+[7] shm_state time: 4.430279, 4.467328, 1850.066182, next moved 1860 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.467328 ? 4.467328 ...
+[7] shm_state time: 4.430279, 4.467328, 1850.066182, next moved 1860 
+[3] shm_state time: 4.467328, 4.503872, 1860.151226, next moved 1870 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.503872 ? 4.430279 ...
+[3] shm_state time: 4.467328, 4.503872, 1860.151226, next moved 1870 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.503872 ? 4.430279 ...
+[3] shm_state time: 4.467328, 4.503872, 1860.151226, next moved 1870 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.503872 ? 4.430279 ...
+[7] shm_state time: 4.467328, 4.503872, 1860.151226, next moved 1870 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[3] ok
+cmp 4.503872 ? 4.503872 ...
+[7] shm_state time: 4.467328, 4.503872, 1860.151226, next moved 1870 
+[3] shm_state time: 4.503872, 4.541129, 1870.069128, next moved 1880 
+start p[3]
+7 moving
+p[3] ok
+cmp 4.541129 ? 4.430279 ...
+[3] shm_state time: 4.503872, 4.541129, 1870.069128, next moved 1880 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.541129 ? 4.430279 ...
+[3] shm_state time: 4.503872, 4.541129, 1870.069128, next moved 1880 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[7] ok
+start p[7]
+3 moving
+p[7] ok
+cmp 4.541129 ? 4.430279 ...
+[7] shm_state time: 4.503872, 4.541129, 1870.069128, next moved 1880 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.541129 ? 4.541129 ...
+[7] shm_state time: 4.503872, 4.541129, 1870.069128, next moved 1880 
+[3] shm_state time: 4.541129, 4.577877, 1880.150453, next moved 1890 
+V[3] ok
+start p[3]
+7 moving
+p[3] ok
+cmp 4.577877 ? 4.430279 ...
+[3] shm_state time: 4.541129, 4.577877, 1880.150453, next moved 1890 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.577877 ? 4.430279 ...
+[3] shm_state time: 4.541129, 4.577877, 1880.150453, next moved 1890 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 4.577877 ? 4.430279 ...
+[7] shm_state time: 4.541129, 4.577877, 1880.150453, next moved 1890 
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.577877 ? 4.577877 ...
+[7] shm_state time: 4.541129, 4.577877, 1880.150453, next moved 1890 
+[3] shm_state time: 4.577877, 4.615341, 1890.064636, next moved 1900 
+7 moving
+V[7] ok
+p[3] ok
+cmp 4.615341 ? 4.430279 ...
+[3] shm_state time: 4.577877, 4.615341, 1890.064636, next moved 1900 
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+cmp 4.615341 ? 4.430279 ...
+[3] shm_state time: 4.577877, 4.615341, 1890.064636, next moved 1900 
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+start p[7]
+3 moving
+V[3] ok
+p[5] ok
+cmp 4.615341 ? 4.615341 ...
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+cmp 4.615341 ? 4.430279 ...
+[5] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[8] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+start p[3]
+5 moving
+V[5] ok
+start p[5]
+p[9] ok
+cmp 4.615341 ? 4.615341 ...
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+cmp 4.615341 ? 4.615341 ...
+[9] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+9 moving
+V[9] ok
+start p[9]
+p[8] ok
+cmp 4.615341 ? 4.615341 ...
+[8] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+cmp 4.615341 ? 4.615341 ...
+[8] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+8 moving
+V[8] ok
+start p[8]
+p[1] ok
+cmp 4.615341 ? 4.615341 ...
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[2] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+cmp 4.615341 ? 4.615341 ...
+[1] shm_state time: 4.430279, 4.615341, 1850.066182, next moved 1900 
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+1 moving
+V[1] ok
+start p[1]
+p[7] ok
+cmp 4.615341 ? 4.615341 ...
+[7] shm_state time: 4.577877, 4.615341, 1890.064636, next moved 1900 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.615341 ? 4.615341 ...
+[7] shm_state time: 4.577877, 4.615341, 1890.064636, next moved 1900 
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+7 moving
+V[7] ok
+start p[7]
+p[6] ok
+cmp 4.802356 ? 4.615341 ...
+[6] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+cmp 4.802356 ? 4.615341 ...
+[6] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+6 moving
+V[6] ok
+start p[6]
+p[3] ok
+cmp 4.652294 ? 4.615341 ...
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.652294 ? 4.615341 ...
+[3] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 4.652294 ? 4.615341 ...
+[7] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.652294 ? 4.652294 ...
+[7] shm_state time: 4.615341, 4.652294, 1900.142117, next moved 1910 
+[3] shm_state time: 4.652294, 4.689965, 1910.052457, next moved 1920 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 4.689965 ? 4.615341 ...
+[3] shm_state time: 4.652294, 4.689965, 1910.052457, next moved 1920 
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.689965 ? 4.615341 ...
+[3] shm_state time: 4.652294, 4.689965, 1910.052457, next moved 1920 
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 4.689965 ? 4.615341 ...
+[7] shm_state time: 4.652294, 4.689965, 1910.052457, next moved 1920 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.689965 ? 4.689965 ...
+[7] shm_state time: 4.652294, 4.689965, 1910.052457, next moved 1920 
+[3] shm_state time: 4.689965, 4.727120, 1920.125968, next moved 1930 
+7 moving
+V[7] ok
+p[3] ok
+cmp 4.727120 ? 4.615341 ...
+[3] shm_state time: 4.689965, 4.727120, 1920.125968, next moved 1930 
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.727120 ? 4.615341 ...
+[3] shm_state time: 4.689965, 4.727120, 1920.125968, next moved 1930 
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+start p[7]
+3 moving
+V[3] ok
+p[7] ok
+start p[3]
+cmp 4.727120 ? 4.615341 ...
+[7] shm_state time: 4.689965, 4.727120, 1920.125968, next moved 1930 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.727120 ? 4.727120 ...
+[7] shm_state time: 4.689965, 4.727120, 1920.125968, next moved 1930 
+[3] shm_state time: 4.727120, 4.764998, 1930.032338, next moved 1940 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 4.764998 ? 4.615341 ...
+[3] shm_state time: 4.727120, 4.764998, 1930.032338, next moved 1940 
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.764998 ? 4.615341 ...
+[3] shm_state time: 4.727120, 4.764998, 1930.032338, next moved 1940 
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+3 moving
+V[3] ok
+start p[3]
+p[7] ok
+cmp 4.764998 ? 4.615341 ...
+[7] shm_state time: 4.727120, 4.764998, 1930.032338, next moved 1940 
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.764998 ? 4.764998 ...
+[7] shm_state time: 4.727120, 4.764998, 1930.032338, next moved 1940 
+[3] shm_state time: 4.764998, 4.802356, 1940.101747, next moved 1950 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 4.802356 ? 4.615341 ...
+[3] shm_state time: 4.764998, 4.802356, 1940.101747, next moved 1950 
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+cmp 4.802356 ? 4.615341 ...
+[3] shm_state time: 4.764998, 4.802356, 1940.101747, next moved 1950 
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+3 moving
+V[3] ok
+start p[3]
+p[9] ok
+cmp 4.802356 ? 4.802356 ...
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+cmp 4.802356 ? 4.615341 ...
+[9] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+9 moving
+p[1] ok
+cmp 4.802356 ? 4.615341 ...
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[2] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+cmp 4.802356 ? 4.802356 ...
+[1] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+V[9] ok
+start p[9]
+1 moving
+p[5] ok
+cmp 4.802356 ? 4.802356 ...
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+cmp 4.802356 ? 4.615341 ...
+[5] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[8] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+V[1] ok
+start p[1]
+5 moving
+V[5] ok
+start p[5]
+p[8] ok
+cmp 4.802356 ? 4.802356 ...
+[8] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+cmp 4.802356 ? 4.802356 ...
+[8] shm_state time: 4.615341, 4.802356, 1900.142117, next moved 1950 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+8 moving
+p[7] ok
+cmp 4.802356 ? 4.802356 ...
+[7] shm_state time: 4.764998, 4.802356, 1940.101747, next moved 1950 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.802356 ? 4.802356 ...
+[7] shm_state time: 4.764998, 4.802356, 1940.101747, next moved 1950 
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+V[8] ok
+start p[8]
+7 moving
+p[3] ok
+cmp 4.840440 ? 4.802356 ...
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+[9] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.840440 ? 4.802356 ...
+[3] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+[1] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+V[7] ok
+start p[7]
+3 moving
+V[3] ok
+p[0] ok
+cmp 4.993179 ? 4.802356 ...
+[0] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.993179 ? 4.615341 ...
+[0] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+start p[3]
+Reach the end of simulation
+0 moving
+p[2] ok
+cmp 4.993179 ? 4.802356 ...
+[2] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.993179 ? 4.802356 ...
+[2] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[1] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+V[0] ok
+start p[0]
+Reach the end of simulation
+2 moving
+p[6] ok
+cmp 4.993179 ? 4.615341 ...
+[6] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+cmp 4.993179 ? 4.802356 ...
+[6] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+V[2] ok
+start p[2]
+Reach the end of simulation
+6 moving
+p[4] ok
+cmp 4.993179 ? 4.802356 ...
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[8] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.993179 ? 4.802356 ...
+[4] shm_state time: 4.615341, 4.993179, 1900.142117, next moved 2000 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+V[6] ok
+start p[6]
+Reach the end of simulation
+4 moving
+V[4] ok
+start p[4]
+p[7] ok
+cmp 4.840440 ? 4.802356 ...
+[7] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+[5] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.840440 ? 4.840440 ...
+[7] shm_state time: 4.802356, 4.840440, 1950.004018, next moved 1960 
+[3] shm_state time: 4.840440, 4.878627, 1960.069193, next moved 1970 
+7 moving
+V[7] ok
+start p[7]
+p[3] ok
+cmp 4.878627 ? 4.802356 ...
+[3] shm_state time: 4.840440, 4.878627, 1960.069193, next moved 1970 
+[9] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+cmp 4.878627 ? 4.802356 ...
+[3] shm_state time: 4.840440, 4.878627, 1960.069193, next moved 1970 
+[1] shm_state time: 4.802356, 4.993179, 1950.004018, next moved 2000 
+3 moving
+p[0] ok
+V[3] ok
+start p[3]
+Reach the end of simulation
+end!

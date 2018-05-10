@@ -1,18 +1,17 @@
-% ./fenger 
 model[0].step = 1
 model[1].step = 5
 model[2].step = 10
-model[0].down:2 1 
+model[0].down:1 2 
 start operation
 start p[0]
 p[0] ok
 cmp 0.001510 ? 0.000000 ...
 [0] shm_state time: 0.000000, 0.001510, 0.000000, moved 1 times
-[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
+[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
 succccccccccess!!!!
 cmp 0.001510 ? 0.000000 ...
 [0] shm_state time: 0.000000, 0.001510, 0.000000, moved 1 times
-[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
+[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
 succccccccccess!!!!
 0 moving
 V[0] ok
@@ -20,11 +19,11 @@ start p[0]
 p[0] ok
 cmp 0.002644 ? 0.000000 ...
 [0] shm_state time: 0.001510, 0.002644, 1.166596, moved 2 times
-[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
+[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
 succccccccccess!!!!
 cmp 0.002644 ? 0.000000 ...
 [0] shm_state time: 0.001510, 0.002644, 1.166596, moved 2 times
-[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
+[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
 succccccccccess!!!!
 0 moving
 V[0] ok
@@ -32,11 +31,11 @@ start p[0]
 p[0] ok
 cmp 0.003778 ? 0.000000 ...
 [0] shm_state time: 0.002644, 0.003778, 2.166535, moved 3 times
-[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
+[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
 succccccccccess!!!!
 cmp 0.003778 ? 0.000000 ...
 [0] shm_state time: 0.002644, 0.003778, 2.166535, moved 3 times
-[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
+[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
 succccccccccess!!!!
 0 moving
 V[0] ok
@@ -44,11 +43,11 @@ start p[0]
 p[0] ok
 cmp 0.004913 ? 0.000000 ...
 [0] shm_state time: 0.003778, 0.004913, 3.166475, moved 4 times
-[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
+[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
 succccccccccess!!!!
 cmp 0.004913 ? 0.000000 ...
 [0] shm_state time: 0.003778, 0.004913, 3.166475, moved 4 times
-[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
+[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
 succccccccccess!!!!
 0 moving
 V[0] ok
@@ -56,11 +55,11 @@ start p[0]
 p[0] ok
 cmp 0.006049 ? 0.000000 ...
 [0] shm_state time: 0.004913, 0.006049, 4.166414, moved 5 times
-[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
+[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
 succccccccccess!!!!
 cmp 0.006049 ? 0.000000 ...
 [0] shm_state time: 0.004913, 0.006049, 4.166414, moved 5 times
-[1] shm_state time: 0.000000, 0.006049, 0.000000, moved 5 times
+[2] shm_state time: 0.000000, 0.011741, 0.000000, moved 10 times
 succccccccccess!!!!
 0 moving
 V[0] ok
