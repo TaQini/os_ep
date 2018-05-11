@@ -138,7 +138,8 @@ int* init(Model* m, int i){
 	int *table = (int*)malloc(N*sizeof(int));
 	memset(table, -1, N);
 	int j;
-	for(j=0;j<N;){
+	table[0] = (i+1)%100;
+	for(j=1;j<N;){
 		int tmp = randInt(M);
 		if (!exist(tmp, table, N) && tmp != i){
 			table[j] = tmp;
